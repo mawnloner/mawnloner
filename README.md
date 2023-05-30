@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello! 👋
+There is little know about me, until you get in touch with me. To keep it simple, I am a yes-sayer and a ☯︎ in many ways
 
-<!--
-**mawnloner/mawnloner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🍍 Interests:
+On the coding side of things, I like to create scripts, rather then (web)apps.
 
-Here are some ideas to get you started:
+Language interests:
+- Powershell
+- Ba(t)sh
+- Python
+- C / C# /C++
+- English
+- German
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also like to:
+- Travel
+- Photo- / videograph
+- Scout the web
