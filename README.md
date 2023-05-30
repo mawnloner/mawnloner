@@ -12,7 +12,12 @@ Language interests:
 - English
 - German
 
-I also like to:
-- Travel
+I also like to invest in:
+- cyber sec
+- real life sec
+- IT & Devices 
+
+My hobbies include:
+- Travel & explore
 - Photo- / videograph
 - Scout the web
